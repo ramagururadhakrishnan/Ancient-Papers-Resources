@@ -37,7 +37,6 @@ This repository (folder) contains various resources available for Magic Squares.
 |---|-------|--------|------|------|
 | F1 | Magic Square (SRMS) Of Fourth Order On Some Special Numbers | IJCRT | 2018 | [Click Here](https://drive.google.com/file/d/17Mf9qsVODJ_jY-T2BBY_BWh_lLfeOsje/view?usp=sharing) |
 | F2 | Nārāyaṇa Paṇḍita’s Turagagati Method for the Construction of 4x4 Pandiagonal Magic Squares | Mathematics Colloquium, Ashoka University | 2021 | [Click Here](https://drive.google.com/file/d/1tiyNpAKGHb0GcXEGsfc7Nb45XZeQooM4/view?usp=sharing) |
-| F3 | On The Construction Of Numerous Magic Squares By Using A Fourth Order (4×4) Magic
-Squares | IIETA | 2019 | [Click Here](https://drive.google.com/file/d/1-ko-_qhfLxz5tD7QKIbmD60Z6NRtT7TK/view?usp=sharing) |
+| F3 | On The Construction Of Numerous Magic Squares By Using A Fourth Order (4×4) Magic Squares | IIETA | 2019 | [Click Here](https://drive.google.com/file/d/1-ko-_qhfLxz5tD7QKIbmD60Z6NRtT7TK/view?usp=sharing) |
 | F4 | Varahamihira’s Pandiagonal Magic Square of the Order Four | Takao Hayashi, Doshisha University | 1987 | [Click Here](https://drive.google.com/file/d/1ddxRFmMWkLk1WMvaFJd7JMv6tvIJN5m1/view?usp=sharing) |
 
