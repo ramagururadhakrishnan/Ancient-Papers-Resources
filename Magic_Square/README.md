@@ -8,6 +8,8 @@ This repository (folder) contains various resources available for Magic Squares.
 | H1 | The Question of Tamil Numeral Number System, Mathematics <br/> and Historical Evidences | K. V. Ramakrishna Rao (WordPress) | 2020 | [Click Here](https://kvramakrishnarao.wordpress.com/2020/05/15/the-question-of-tamil-numeral-number-number-system-mathematics-and-historical-evidences-2/) |
 | H2 | Ancient Indian Mathematics and Magic Squares | Springer | 2019 | [Click Here](https://link.springer.com/chapter/10.1007/978-981-13-1229-8_31) |
 | H3 | Mathematical Patterns and Cultural Heritage in India | Springer | 2020 | [Click Here](https://link.springer.com/chapter/10.1007/978-981-13-7326-8_14) |
+| H4 | A magic square in Sri Hayagriva Stotram of Sri Swami Vedanta Desika | IJSR | 2024 | [Click Here](https://drive.google.com/file/d/14K_DfIcOIB7qP4SpodRS_xEVhF7F1BoI/view?usp=sharing) |
+| H5 | Luo Shu: Ancient Chinese Magic Square on Linear Algebra | SAGE Open | 2015 | [Click Here](https://drive.google.com/file/d/14N_UKwR7h8GrSkHplPiX-Q2-Y9V36SdN/view?usp=sharing)|
 
 ## Recreational & General Magic Squares
 
