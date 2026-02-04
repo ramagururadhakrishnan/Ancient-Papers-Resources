@@ -20,6 +20,10 @@ This repository (folder) contains various resources available for Magic Squares.
 | R1 | Quadramagicology: The Mathematics of Magic Squares | New Scientist | 2003 | [Click Here](https://www.newscientist.com/article/mg18024265-600-quadramagicology/) |
 | R2 | World Records on Magic Squares | Record Holders.org | 2023 | [Click Here](https://www.recordholders.org/en/records/magic.html) |
 | R3 | Special Magic Square Constructions | JollyMaths | 2022 | [Click Here](https://jollymaths.com/blog/category/special-magic-square/) |
+| R4 | Some New Properties Of 6x6 Magic Square | JETIR | 2021 | [Click Here](https://drive.google.com/file/d/1qwq6Ua8T954G1CL9YbZaD5hqKSB-8kcb/view?usp=sharing) |
+| R5 | Magic Squares - Experimental Mathematics | University of Luxembourg | 2016 | [Click Here](https://drive.google.com/file/d/1p3qKB27zAxFol-w4rK-iv6_RCTGQoS60/view?usp=sharing) |
+| R6 | Construction of a repetitive magic square with Ramanujan’s number as its product | Heliyon | 2023 | [Click Here](https://drive.google.com/file/d/1oAJqRqMZWUSX1QesgQH9bTHtTM3AJbvW/view?usp=sharing) |
+
 
 
 ## Cryptography & Information Hiding
