@@ -22,8 +22,7 @@ This repository (folder) contains various resources available for Magic Squares.
 | R2 | World Records on Magic Squares | Record Holders.org | 2023 | [Click Here](https://www.recordholders.org/en/records/magic.html) |
 | R3 | Construction of a repetitive magic square with Ramanujan’s number as its product | Heliyon | 2023 | [Click Here](https://drive.google.com/file/d/1oAJqRqMZWUSX1QesgQH9bTHtTM3AJbvW/view?usp=sharing) |
 | R4 | Special Magic Square Constructions | JollyMaths | 2022 | [Click Here](https://jollymaths.com/blog/category/special-magic-square/) |
-| R5 | Some New Properties Of 6x6 Magic Square | JETIR | 2021 | [Click Here](https://drive.google.com/file/d/1qwq6Ua8T954G1CL9YbZaD5hqKSB-8kcb/view?usp=sharing) |
-| R6 | Magic Squares - Experimental Mathematics | University of Luxembourg | 2016 | [Click Here](https://drive.google.com/file/d/1p3qKB27zAxFol-w4rK-iv6_RCTGQoS60/view?usp=sharing) |
+| R5 | Magic Squares - Experimental Mathematics | University of Luxembourg | 2016 | [Click Here](https://drive.google.com/file/d/1p3qKB27zAxFol-w4rK-iv6_RCTGQoS60/view?usp=sharing) |
 
 
 
@@ -45,6 +44,7 @@ This repository (folder) contains various resources available for Magic Squares.
 | M2 | Construction Of Multiple Odd Magic Squares | AJOMCOR | 2022 | [Click Here](https://drive.google.com/file/d/1bPxtFpYxWcWN6OZS6GDxCGjPXR_lX_Mm/view?usp=sharing) |
 | M3 | Generalization of Magic Square (Numerical Logic) 3×3 and its Multiples (3×3) × (3×3) | MECS | 2013 | [Click Here](https://drive.google.com/file/d/18HNLCG6y3xHvdvSL9KfGWB5QLvCv4gGZ/view?usp=sharing) |
 | M4 | Magic Squares as a Field | Research India Publications | 2014 | [Click Here](https://drive.google.com/file/d/1lgZukkR5k3XyR7vfOQc23_TjOWTEd4bR/view?usp=sharing) |
+| M5 | Some New Properties Of 6x6 Magic Square | JETIR | 2021 | [Click Here](https://drive.google.com/file/d/1qwq6Ua8T954G1CL9YbZaD5hqKSB-8kcb/view?usp=sharing) |
 
 
 
