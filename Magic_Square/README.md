@@ -18,11 +18,13 @@ This repository (folder) contains various resources available for Magic Squares.
 
 | # | Title | Source | Year | Link |
 |---|-------|--------|------|------|
-| R1 | Quadramagicology: The Mathematics of Magic Squares | New Scientist | 2003 | [Click Here](https://www.newscientist.com/article/mg18024265-600-quadramagicology/) |
-| R2 | World Records on Magic Squares | Record Holders.org | 2023 | [Click Here](https://www.recordholders.org/en/records/magic.html) |
-| R3 | Construction of a repetitive magic square with Ramanujan’s number as its product | Heliyon | 2023 | [Click Here](https://drive.google.com/file/d/1oAJqRqMZWUSX1QesgQH9bTHtTM3AJbvW/view?usp=sharing) |
-| R4 | Special Magic Square Constructions | JollyMaths | 2022 | [Click Here](https://jollymaths.com/blog/category/special-magic-square/) |
-| R5 | Magic Squares - Experimental Mathematics | University of Luxembourg | 2016 | [Click Here](https://drive.google.com/file/d/1p3qKB27zAxFol-w4rK-iv6_RCTGQoS60/view?usp=sharing) |
+| R1 | Hossein Behforooz - Magic Squares | Journal of Recreational Mathematics |  | [Click Here](https://drive.google.com/file/d/171bLwXEoanaMqiCRJItw615KyofignPP/view?usp=sharing) |
+| R2 | Tamil - Marriage Invitation Magic Square |  | 1993/2004 | [Click Here](https://drive.google.com/file/d/1wvf5-7PfMwGtMsPuiry79d2AraeFDtze/view?usp=sharing) |
+| R3 | Quadramagicology: The Mathematics of Magic Squares | New Scientist | 2003 | [Click Here](https://www.newscientist.com/article/mg18024265-600-quadramagicology/) |
+| R4 | World Records on Magic Squares | Record Holders.org | 2023 | [Click Here](https://www.recordholders.org/en/records/magic.html) |
+| R5 | Construction of a repetitive magic square with Ramanujan’s number as its product | Heliyon | 2023 | [Click Here](https://drive.google.com/file/d/1oAJqRqMZWUSX1QesgQH9bTHtTM3AJbvW/view?usp=sharing) |
+| R6 | Special Magic Square Constructions | JollyMaths | 2022 | [Click Here](https://jollymaths.com/blog/category/special-magic-square/) |
+| R7 | Magic Squares - Experimental Mathematics | University of Luxembourg | 2016 | [Click Here](https://drive.google.com/file/d/1p3qKB27zAxFol-w4rK-iv6_RCTGQoS60/view?usp=sharing) |
 
 
 
