@@ -40,11 +40,11 @@ This repository (folder) contains various resources available for Magic Squares.
 ## Mathematical Properties
 | # | Title | Source | Year | Link |
 |---|-------|--------|------|------|
-| M1 | A New Property of Multiplicative Magic Square | JETIR | 2019 | [Click Here](https://drive.google.com/file/d/1a4rP-Z4GbIPbDsfytEKeRTnrpmPXUdgg/view?usp=sharing) |
-| M2 | Construction Of Multiple Odd Magic Squares | AJOMCOR | 2022 | [Click Here](https://drive.google.com/file/d/1bPxtFpYxWcWN6OZS6GDxCGjPXR_lX_Mm/view?usp=sharing) |
-| M3 | Generalization of Magic Square (Numerical Logic) 3×3 and its Multiples (3×3) × (3×3) | MECS | 2013 | [Click Here](https://drive.google.com/file/d/18HNLCG6y3xHvdvSL9KfGWB5QLvCv4gGZ/view?usp=sharing) |
+| M1 | Construction Of Multiple Odd Magic Squares | AJOMCOR | 2022 | [Click Here](https://drive.google.com/file/d/1bPxtFpYxWcWN6OZS6GDxCGjPXR_lX_Mm/view?usp=sharing) |
+| M2 | Some New Properties Of 6x6 Magic Square | JETIR | 2021 | [Click Here](https://drive.google.com/file/d/1qwq6Ua8T954G1CL9YbZaD5hqKSB-8kcb/view?usp=sharing) |
+| M3 | A New Property of Multiplicative Magic Square | JETIR | 2019 | [Click Here](https://drive.google.com/file/d/1a4rP-Z4GbIPbDsfytEKeRTnrpmPXUdgg/view?usp=sharing) |
 | M4 | Magic Squares as a Field | Research India Publications | 2014 | [Click Here](https://drive.google.com/file/d/1lgZukkR5k3XyR7vfOQc23_TjOWTEd4bR/view?usp=sharing) |
-| M5 | Some New Properties Of 6x6 Magic Square | JETIR | 2021 | [Click Here](https://drive.google.com/file/d/1qwq6Ua8T954G1CL9YbZaD5hqKSB-8kcb/view?usp=sharing) |
+| M5 | Generalization of Magic Square (Numerical Logic) 3×3 and its Multiples (3×3) × (3×3) | MECS | 2013 | [Click Here](https://drive.google.com/file/d/18HNLCG6y3xHvdvSL9KfGWB5QLvCv4gGZ/view?usp=sharing) |
 
 
 
