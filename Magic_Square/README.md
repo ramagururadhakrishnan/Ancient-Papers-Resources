@@ -38,6 +38,16 @@ This repository (folder) contains various resources available for Magic Squares.
 
 
 
+## Mathematical Properties
+| # | Title | Source | Year | Link |
+|---|-------|--------|------|------|
+| M1 | A New Property of Multiplicative Magic Square | JETIR | 2019 | [Click Here](https://drive.google.com/file/d/1a4rP-Z4GbIPbDsfytEKeRTnrpmPXUdgg/view?usp=sharing) |
+| M2 | Construction Of Multiple Odd Magic Squares | AJOMCOR | 2022 | [Click Here](https://drive.google.com/file/d/1bPxtFpYxWcWN6OZS6GDxCGjPXR_lX_Mm/view?usp=sharing) |
+| M3 | Generalization of Magic Square (Numerical Logic) 3×3 and its Multiples (3×3) × (3×3) | MECS | 2013 | [Click Here](https://drive.google.com/file/d/18HNLCG6y3xHvdvSL9KfGWB5QLvCv4gGZ/view?usp=sharing) |
+| M4 | Magic Squares as a Field | Research India Publications | 2014 | [Click Here](https://drive.google.com/file/d/1lgZukkR5k3XyR7vfOQc23_TjOWTEd4bR/view?usp=sharing) |
+
+
+
 ## Fourth Order Magic Squares
 | # | Title | Source | Year | Link |
 |---|-------|--------|------|------|
@@ -45,4 +55,6 @@ This repository (folder) contains various resources available for Magic Squares.
 | F2 | On The Construction Of Numerous Magic Squares By Using A Fourth Order (4×4) Magic Squares | IIETA | 2019 | [Click Here](https://drive.google.com/file/d/1-ko-_qhfLxz5tD7QKIbmD60Z6NRtT7TK/view?usp=sharing) |
 | F3 | Magic Square (SRMS) Of Fourth Order On Some Special Numbers | IJCRT | 2018 | [Click Here](https://drive.google.com/file/d/17Mf9qsVODJ_jY-T2BBY_BWh_lLfeOsje/view?usp=sharing) |
 | F4 | Varahamihira’s Pandiagonal Magic Square of the Order Four | Takao Hayashi, Doshisha University | 1987 | [Click Here](https://drive.google.com/file/d/1ddxRFmMWkLk1WMvaFJd7JMv6tvIJN5m1/view?usp=sharing) |
+
+
 
