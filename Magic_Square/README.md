@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/Referenced_for-IIC8.0_RnD_Projects-gold) <br/> 
 This repository (folder) contains various resources available for Magic Squares.
 
-### Historical & Number System 
+## Historical & Number System 
 | # | Title | Source | Year | Link | Status |
 |:-:|:-------|--------|------|------|:------|
 | H1 | A magic square in Sri Hayagriva<br/> Stotram of Sri Swami Vedanta Desika | IJSR | 2024 | [Click Here](https://drive.google.com/file/d/14K_DfIcOIB7qP4SpodRS_xEVhF7F1BoI/view?usp=sharing) | ![](https://img.shields.io/badge/Completed-06th_Feb-darkgreen) |
