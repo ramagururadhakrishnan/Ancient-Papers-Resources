@@ -33,7 +33,7 @@ This repository (folder) contains various resources available for Magic Squares.
 |:-:|:-------|--------|------|------|:------|
 | M1 | Magic Squares as a Field | Research India Publications | 2014 | [Click Here](https://drive.google.com/file/d/1lgZukkR5k3XyR7vfOQc23_TjOWTEd4bR/view?usp=sharing) | ![](https://img.shields.io/badge/Planned-06th_Feb-purple) <br/> ![](https://img.shields.io/badge/Completed-06th_Feb-darkgreen) |
 | M2 | Construction of Magic Square of Any Order | IJRSI | 2018 | [Click Here](https://drive.google.com/file/d/1nEZtK1Ba-wT-JIuYZWaHr_LhkRrMet6l/view?usp=sharing)| ![](https://img.shields.io/badge/Planned-11th_Feb-purple) <br/> ![](https://img.shields.io/badge/Completed-11th_Feb-darkgreen) |
-| M3 | Generalization of Magic Square (Numerical Logic) 3×3 <br/> and its Multiples (3×3) × (3×3) | MECS | 2013 | [Click Here](https://drive.google.com/file/d/18HNLCG6y3xHvdvSL9KfGWB5QLvCv4gGZ/view?usp=sharing) | ![](https://img.shields.io/badge/Planned-18th_Feb-purple) |
+| M3 | Generalization of Magic Square (Numerical Logic) 3×3 <br/> and its Multiples (3×3) × (3×3) | MECS | 2013 | [Click Here](https://drive.google.com/file/d/18HNLCG6y3xHvdvSL9KfGWB5QLvCv4gGZ/view?usp=sharing) | ![](https://img.shields.io/badge/Planned-11th_Feb-purple) |
 | M4 | Construction Of Multiple Odd Magic Squares | AJOMCOR | 2022 | [Click Here](https://drive.google.com/file/d/1bPxtFpYxWcWN6OZS6GDxCGjPXR_lX_Mm/view?usp=sharing) |
 | M5 | Some New Properties Of 6x6 Magic Square | JETIR | 2021 | [Click Here](https://drive.google.com/file/d/1qwq6Ua8T954G1CL9YbZaD5hqKSB-8kcb/view?usp=sharing) |
 | M6 | A New Property of Multiplicative Magic Square | JETIR | 2019 | [Click Here](https://drive.google.com/file/d/1a4rP-Z4GbIPbDsfytEKeRTnrpmPXUdgg/view?usp=sharing) |
