@@ -1,5 +1,9 @@
 # Magic Square Resources
 ![](https://img.shields.io/badge/Referenced_for-IIC8.0_RnD_Projects-gold) <br/> 
+
+<p align="center">
+  <img src="../Assets/images/magic_square_example.png" width = 180 />
+</p>
 This repository (folder) contains various resources available for Magic Squares.
 
 ## Historical & Number System 
@@ -31,7 +35,7 @@ This repository (folder) contains various resources available for Magic Squares.
 
 | # | Title | Source | Year | Link | Status |
 |:-:|:-------|--------|------|------|:------|
-| M1 | Magic Squares as a Field | Research India Publications | 2014 | [Click Here](https://drive.google.com/file/d/1lgZukkR5k3XyR7vfOQc23_TjOWTEd4bR/view?usp=sharing) | ![](https://img.shields.io/badge/Planned-06th_Feb-purple) <br/> ![](https://img.shields.io/badge/Completed-06th_Feb-darkgreen) |
+| M1 | Magic Squares as a Field ![](https://img.shields.io/badge/-Amrita-gold) | Research India Publications | 2014 | [Click Here](https://drive.google.com/file/d/1lgZukkR5k3XyR7vfOQc23_TjOWTEd4bR/view?usp=sharing) | ![](https://img.shields.io/badge/Planned-06th_Feb-purple) <br/> ![](https://img.shields.io/badge/Completed-06th_Feb-darkgreen) |
 | M2 | Construction of Magic Square of Any Order | IJRSI | 2018 | [Click Here](https://drive.google.com/file/d/1nEZtK1Ba-wT-JIuYZWaHr_LhkRrMet6l/view?usp=sharing)| ![](https://img.shields.io/badge/Planned-11th_Feb-purple) <br/> ![](https://img.shields.io/badge/Completed-11th_Feb-darkgreen) |
 | M3 | Generalization of Magic Square (Numerical Logic) 3×3 <br/> and its Multiples (3×3) × (3×3) | MECS | 2013 | [Click Here](https://drive.google.com/file/d/18HNLCG6y3xHvdvSL9KfGWB5QLvCv4gGZ/view?usp=sharing) | ![](https://img.shields.io/badge/Planned-11th_Feb-purple) |
 | M4 | Construction Of Multiple Odd Magic Squares | AJOMCOR | 2022 | [Click Here](https://drive.google.com/file/d/1bPxtFpYxWcWN6OZS6GDxCGjPXR_lX_Mm/view?usp=sharing) |
