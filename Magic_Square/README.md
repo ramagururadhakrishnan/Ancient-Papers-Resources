@@ -5,11 +5,11 @@ This repository (folder) contains various resources available for Magic Squares.
 ## Historical & Number System 
 | # | Title | Source | Year | Link | Status |
 |:-:|:-------|--------|------|------|:------|
-| H1 | A magic square in Sri Hayagriva<br/> Stotram of Sri Swami Vedanta Desika | IJSR | 2024 | [Click Here](https://drive.google.com/file/d/14K_DfIcOIB7qP4SpodRS_xEVhF7F1BoI/view?usp=sharing) | ![](https://img.shields.io/badge/Completed-06th_Feb-darkgreen) |
-| H2 | The Question of Tamil Numeral Number System, <br/> Mathematics and Historical Evidences | K. V. Ramakrishna Rao (WordPress) | 2020 | [Click Here](https://kvramakrishnarao.wordpress.com/2020/05/15/the-question-of-tamil-numeral-number-number-system-mathematics-and-historical-evidences-2/) |
-| H3 | Mathematical Patterns and Cultural Heritage in India | Springer | 2020 | [Click Here](https://link.springer.com/chapter/10.1007/978-981-13-7326-8_14) |
-| H4 | Ancient Indian Mathematics and Magic Squares | Springer | 2019 | [Click Here](https://link.springer.com/chapter/10.1007/978-981-13-1229-8_31) |
-| H5 | Luo Shu: Ancient Chinese Magic Square on Linear Algebra | SAGE Open | 2015 | [Click Here](https://drive.google.com/file/d/14N_UKwR7h8GrSkHplPiX-Q2-Y9V36SdN/view?usp=sharing)|
+| H1 | A magic square in Sri Hayagriva<br/> Stotram of Sri Swami Vedanta Desika | IJSR | 2024 | [Click Here](https://drive.google.com/file/d/14K_DfIcOIB7qP4SpodRS_xEVhF7F1BoI/view?usp=sharing) | ![](https://img.shields.io/badge/Planned-06th_Feb-purple) <br/> ![](https://img.shields.io/badge/Completed-06th_Feb-darkgreen) |
+| H2 | Luo Shu: Ancient Chinese Magic Square on Linear Algebra | SAGE Open | 2015 | [Click Here](https://drive.google.com/file/d/14N_UKwR7h8GrSkHplPiX-Q2-Y9V36SdN/view?usp=sharing)| ![](https://img.shields.io/badge/Planned-18th_Feb-purple) |
+| H3 | The Question of Tamil Numeral Number System, <br/> Mathematics and Historical Evidences | K. V. Ramakrishna Rao (WordPress) | 2020 | [Click Here](https://kvramakrishnarao.wordpress.com/2020/05/15/the-question-of-tamil-numeral-number-number-system-mathematics-and-historical-evidences-2/) |
+| H4 | Mathematical Patterns and Cultural Heritage in India | Springer | 2020 | [Click Here](https://link.springer.com/chapter/10.1007/978-981-13-7326-8_14) |
+| H5 | Ancient Indian Mathematics and Magic Squares | Springer | 2019 | [Click Here](https://link.springer.com/chapter/10.1007/978-981-13-1229-8_31) |
 
 
 ## Recreational & General Magic Squares
@@ -31,13 +31,13 @@ This repository (folder) contains various resources available for Magic Squares.
 
 | # | Title | Source | Year | Link | Status |
 |:-:|:-------|--------|------|------|:------|
-| M1 | Construction Of Multiple Odd Magic Squares | AJOMCOR | 2022 | [Click Here](https://drive.google.com/file/d/1bPxtFpYxWcWN6OZS6GDxCGjPXR_lX_Mm/view?usp=sharing) |
-| M2 | Some New Properties Of 6x6 Magic Square | JETIR | 2021 | [Click Here](https://drive.google.com/file/d/1qwq6Ua8T954G1CL9YbZaD5hqKSB-8kcb/view?usp=sharing) |
-| M3 | A New Property of Multiplicative Magic Square | JETIR | 2019 | [Click Here](https://drive.google.com/file/d/1a4rP-Z4GbIPbDsfytEKeRTnrpmPXUdgg/view?usp=sharing) |
-| M6 | Construction of Magic Square of Any Order | IJRSI | 2018 | [Click Here](https://drive.google.com/file/d/1nEZtK1Ba-wT-JIuYZWaHr_LhkRrMet6l/view?usp=sharing)|
-| M7 | Magic Squares of Squares |  | 2015 | [Click Here](https://drive.google.com/file/d/1mA-z9Ox1q-Y3XgIRhEIFtaXWZgUefb7A/view?usp=sharing) |
-| M4 | Magic Squares as a Field | Research India Publications | 2014 | [Click Here](https://drive.google.com/file/d/1lgZukkR5k3XyR7vfOQc23_TjOWTEd4bR/view?usp=sharing) |
-| M5 | Generalization of Magic Square (Numerical Logic) 3×3 <br/> and its Multiples (3×3) × (3×3) | MECS | 2013 | [Click Here](https://drive.google.com/file/d/18HNLCG6y3xHvdvSL9KfGWB5QLvCv4gGZ/view?usp=sharing) |
+| M1 | Magic Squares as a Field | Research India Publications | 2014 | [Click Here](https://drive.google.com/file/d/1lgZukkR5k3XyR7vfOQc23_TjOWTEd4bR/view?usp=sharing) | ![](https://img.shields.io/badge/Planned-06th_Feb-purple) <br/> ![](https://img.shields.io/badge/Completed-06th_Feb-darkgreen) |
+| M2 | Construction of Magic Square of Any Order | IJRSI | 2018 | [Click Here](https://drive.google.com/file/d/1nEZtK1Ba-wT-JIuYZWaHr_LhkRrMet6l/view?usp=sharing)| ![](https://img.shields.io/badge/Planned-11th_Feb-purple) <br/> ![](https://img.shields.io/badge/Completed-11th_Feb-darkgreen) |
+| M3 | Generalization of Magic Square (Numerical Logic) 3×3 <br/> and its Multiples (3×3) × (3×3) | MECS | 2013 | [Click Here](https://drive.google.com/file/d/18HNLCG6y3xHvdvSL9KfGWB5QLvCv4gGZ/view?usp=sharing) | ![](https://img.shields.io/badge/Planned-18th_Feb-purple) |
+| M4 | Construction Of Multiple Odd Magic Squares | AJOMCOR | 2022 | [Click Here](https://drive.google.com/file/d/1bPxtFpYxWcWN6OZS6GDxCGjPXR_lX_Mm/view?usp=sharing) |
+| M5 | Some New Properties Of 6x6 Magic Square | JETIR | 2021 | [Click Here](https://drive.google.com/file/d/1qwq6Ua8T954G1CL9YbZaD5hqKSB-8kcb/view?usp=sharing) |
+| M6 | A New Property of Multiplicative Magic Square | JETIR | 2019 | [Click Here](https://drive.google.com/file/d/1a4rP-Z4GbIPbDsfytEKeRTnrpmPXUdgg/view?usp=sharing) |
+| M7 | Magic Squares of Squares |  | 2015 | [Click Here](https://drive.google.com/file/d/1mA-z9Ox1q-Y3XgIRhEIFtaXWZgUefb7A/view?usp=sharing) 
 
 
 ## Fourth Order Magic Squares
@@ -54,12 +54,12 @@ This repository (folder) contains various resources available for Magic Squares.
 
 | # | Title | Source | Year | Link | Status |
 |:-:|:-------|--------|------|------|:------|
-| C1 | Computational Generation and Analysis of Magic Squares in the Age of Artificial Intelligence | IJIRMF | 2025 | [Click Here](https://drive.google.com/file/d/1GEcBPIdifRKwz1DCunwGYJxT09qia6pf/view?usp=sharing) |
-| C2 | Magic Square Birthday Anonymizer and ZKP Verifier | GitHub (NamChain Research Lab) | 2024 | [Click Here](https://github.com/NamChain-Open-Initiative-Research-Lab/Magic-Square-Birthday-Anonymizer-and-ZKP-Verifier) |
-| C3 | Magic Square Based Cryptography Techniques | Springer | 2022 | [Click Here](https://link.springer.com/chapter/10.1007/978-3-030-97196-0_26) |
-| C4 | A Study of Authenticated Communication Based on Magic Square and Goldbach’s Conjecture | ISSN | 2020 | [Click Here](https://drive.google.com/file/d/1VBzW2VGd0ahlOkvIjizJGtGDBaof2pHf/view?usp=sharing) |
-| C5 | Magic Squares and Cryptographic Applications | Kyoto University (KURIMS) | 2018 | [Click Here](https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2051-06.pdf) |
-| C6 | Magic Squares in Ancient Mathematics | EBSCO Academic Database | 2018 | [Click Here](https://openurl.ebsco.com/EPDB%3Agcd%3A4%3A33084356/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A159512003&crl=f&link_origin=www.google.com) |
-| C7 | Data hiding using pseudo magic squares for embedding <br/> high payload in digital images | Springer | 2016 | [Click Here](https://drive.google.com/file/d/1TGRaR4ku9nGoug0EUoVkABxE1VW7sDJ0/view?usp=sharing)|
+| C0 | Magic Square Birthday Anonymizer and ZKP Verifier | GitHub (NamChain Research Lab) | 2024 | [Click Here](https://github.com/NamChain-Open-Initiative-Research-Lab/Magic-Square-Birthday-Anonymizer-and-ZKP-Verifier) | ![](https://img.shields.io/badge/Completed-darkgreen) |
+| C1 | Computational Generation and Analysis of Magic Squares in the Age of Artificial Intelligence | IJIRMF | 2025 | [Click Here](https://drive.google.com/file/d/1GEcBPIdifRKwz1DCunwGYJxT09qia6pf/view?usp=sharing) 
+| C2 | Magic Square Based Cryptography Techniques | Springer | 2022 | [Click Here](https://link.springer.com/chapter/10.1007/978-3-030-97196-0_26) |
+| C3 | A Study of Authenticated Communication Based on Magic Square and Goldbach’s Conjecture | ISSN | 2020 | [Click Here](https://drive.google.com/file/d/1VBzW2VGd0ahlOkvIjizJGtGDBaof2pHf/view?usp=sharing) |
+| C4 | Magic Squares and Cryptographic Applications | Kyoto University (KURIMS) | 2018 | [Click Here](https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2051-06.pdf) |
+| C5 | Magic Squares in Ancient Mathematics | EBSCO Academic Database | 2018 | [Click Here](https://openurl.ebsco.com/EPDB%3Agcd%3A4%3A33084356/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A159512003&crl=f&link_origin=www.google.com) |
+| C6 | Data hiding using pseudo magic squares for embedding <br/> high payload in digital images | Springer | 2016 | [Click Here](https://drive.google.com/file/d/1TGRaR4ku9nGoug0EUoVkABxE1VW7sDJ0/view?usp=sharing)|
 
 
